@@ -24,21 +24,25 @@ Work experience
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+See [publication](https://febrianrachmadi.github.io/publications/) page or [my Google Scholar's page](https://scholar.google.co.uk/citations?hl=en&user=ZFo5fiwAAAAJ).
+<!--  <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+-->
+  <!--  
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+-->
+  <!--  
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+-->
   
 <!---
 Service and leadership
