@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* December 2017 - December 2020: Research Intern
+* December 2017 - December 2019: Research Intern
   * [Lpixel Inc.](https://lpixel.net/)
   * Project: Developing automatic labelling of brain vessels from MRA using deep neural networks.
 <!---  * Supervisor: Professor Git --->
