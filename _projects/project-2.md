@@ -1,6 +1,6 @@
 ---
 title: "Characterisation of WMH in Brain MRI"
-excerpt: "Characterising each voxels of WMH in brain T2-FLAIR MRI.<br/><img src='/images/500x300.png'>"
+excerpt: "Characterising each voxels of WMH in brain T2-FLAIR MRI based on its texture(s).<br/><img src='/images/im.png'>"
 collection: projects
 ---
 
