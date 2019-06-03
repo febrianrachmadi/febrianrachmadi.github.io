@@ -6,7 +6,7 @@ collection: projects
 
 In this project, we proposed a new modality produced from T2-FLAIR brain MRI named irregularity map (IM). Unlike probability map, IM captures regular and irregular regions by retaining changes of the original T2-FLAIR intensities (see Figure 1). This cannot be achieved with deep neural network algorithms, which are trained to reproduce manually generated binary masks. Furthremore, IM can also be produced without any supervision from human using unsupervised method Limited One-time Sampling Irregularity Map (LOTS-IM).
 
-![alt text](images/im.png "Visualisation of LOTS-IM vs. others")
+![alt text](/images/im.png "Visualisation of LOTS-IM vs. others")
 Figure 1: Comparison between irregularity map, probability map (produced by DeepMedic), and binary mask.
 
 Code repository: [LOTS-IM](https://github.com/febrianrachmadi/lots-iam-gpu)
