@@ -1,6 +1,6 @@
 ---
-title: "Project item number 2"
-excerpt: "Short description of Project item number 2<br/><img src='/images/500x300.png'>"
+title: "Characterisation of WMH in Brain MRI"
+excerpt: "Characterising each voxels of WMH in brain T2-FLAIR MRI.<br/><img src='/images/500x300.png'>"
 collection: projects
 ---
 
