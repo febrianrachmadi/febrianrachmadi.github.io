@@ -22,34 +22,16 @@ Work experience
   * Project: Developing automatic labelling of brain vessels from MRA using deep neural networks.
 <!---  * Supervisor: Professor Git --->
 
+* September 2012 - August 2013: Research Exchange Student
+  * Graduate School of Engineering, Nagoya University
+  * Role: Exchange student under Nagoya University's [NUPACE exchange programe](http://nupace.ecis.nagoya-u.ac.jp/en/).
+  * Funding: Fully funded by Government of Japan in Japan Student Services Organization (JASSO) scholarship scheme.
+  * Supervisors: Prof. Toshio Fukuda and Prof. Kousuke Sekiyama @ [Intelligent Robotics and Biomechatronics Laboratory](http://www.mein.nagoya-u.ac.jp/en/index.html)   
+  
+* September 2010 - August 2014: Research and Teaching Assistant
+  * Faculty of Computer Science, Universitas Indonesia
+  * Supervisor: Prof. Wisnu Jatmiko @ [Computer Networks, Architecture and High Performance Computing Laboratory](http://www.cs.ui.ac.id/index.php/computer-networks-architecture-and-performance-computing.html?lang=en) 
+
 Publications
 ======
 See [publication page](https://febrianrachmadi.github.io/publications/) or [my Google Scholar's page](https://scholar.google.co.uk/citations?hl=en&user=ZFo5fiwAAAAJ).
-
-<!---  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
---->
-<!---
-Talks
-====== 
---->
-<!---  
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
---->
-<!--- 
-Teaching
-======
---->
-<!--- 
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
---->
-<!---
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
---->
