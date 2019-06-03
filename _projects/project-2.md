@@ -1,7 +1,18 @@
 ---
-title: "Characterisation of WMH in Brain MRI"
-excerpt: "Characterising each voxels of WMH in brain T2-FLAIR MRI based on its texture(s).<br/><img src='/images/im.png'>"
+title: "Characterisation of WMH in Brain MRI using Irregularity Map"
+excerpt: "Characterising each voxels of white matter hyperintensities (WMH) in brain T2-FLAIR MRI based on its texture(s).<br/><img src='/images/im.png'>"
 collection: projects
 ---
 
-This is an item in your project. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+In this project, we proposed a new modality produced from T2-FLAIR brain MRI named irregularity map (IM). Unlike probability map, IM captures regular and irregular regions by retaining changes of the original T2-FLAIR intensities (see Figure 1). This cannot be achieved with deep neural network algorithms, which are trained to reproduce manually generated binary masks. Furthremore, IM can also be produced without any supervision from human using unsupervised method Limited One-time Sampling Irregularity Map (LOTS-IM).
+
+![alt text](images/im.png "Visualisation of LOTS-IM vs. others")
+Figure 1: Comparison between irregularity map, probability map (produced by DeepMedic), and binary mask.
+
+Code repository: [LOTS-IM](https://github.com/febrianrachmadi/lots-iam-gpu)
+
+Published publications:
+ - To be listed. Submitted to Computerized Medical Imaging and Graphics (CMIG) journal.
+ - Rachmadi, M. F., Valdés-Hernández, M. D. C., & Komura, T. (2018, September). **Automatic irregular texture detection in brain mri without human supervision.** In _International Conference on Medical Image Computing and Computer-Assisted Intervention_ (pp. 506-513). Springer, Cham. doi: [10.1007/978-3-030-00931-1_58](10.1007/978-3-030-00931-1_58)
+ - Rachmadi, M. F., Valdés-Hernández, M. D. C., & Komura, T. (2018, September). **Transfer Learning for Task Adaptation of Brain Lesion Assessment and Prediction of Brain Abnormalities Progression/Regression using Irregularity Age Map in Brain MRI.** In _International Workshop on PRedictive Intelligence In MEdicine_ (pp. 85-93). Springer, Cham. doi: [10.1007/978-3-030-00320-3_11](10.1007/978-3-030-00320-3_11)
+ - Rachmadi, M. F., Valdés-Hernández, M. D. C., & Komura, T. (2017, October). **Voxel-based irregularity age map (IAM) for brain's white matter hyperintensities in MRI.** In _2017 International Conference on Advanced Computer Science and Information Systems (ICACSIS)_ (pp. 321-326). IEEE.

@@ -1,7 +1,13 @@
 ---
 title: "Disease Evolution Predictor Deep Neural Networks"
-excerpt: "This is an ongoing (PhD) project to develop deep neural network models for predicting and delineating WMH evolution in T2-FLAIR brain MRI. <br/><img src='/images/dep.png'>"
+excerpt: "This is an ongoing (PhD) project to develop deep neural network models for predicting and delineating white matter hyperintensities (WMH) evolution in T2-FLAIR brain MRI. <br/>"
 collection: projects
 ---
 
-Multiple recent studies have shown that WMH on a patient may decrease (i.e., shrink/regress), stay the same (i.e., stable), or increase (i.e., grow/progress) over a period of time. In this project, we refer to theses changes as evolution of WMH and propose deep neural network models to predict and delineate the evolution of WMH automatically.
+Multiple recent studies have shown that WMH on a patient may decrease (i.e., shrink/regress), stay the same (i.e., stable), or increase (i.e., grow/progress) over a period of time. In this project, we refer to theses changes as evolution of WMH and propose deep neural network models to predict and delineate the evolution of WMH automatically. In this porject, we primarily used irregularity map (IM) and generative adversarial network (GAN) for our proposed Disease Evolution Predictor (DEP) model.
+
+Code repository: Under construction.
+
+Published publications: 
+ - To be listed. Submitted to MICCAI 2019.
+ - Rachmadi, M. F., Valdés-Hernández, M. D. C., & Komura, T. (2018, September). **Transfer Learning for Task Adaptation of Brain Lesion Assessment and Prediction of Brain Abnormalities Progression/Regression using Irregularity Age Map in Brain MRI.** In _International Workshop on PRedictive Intelligence In MEdicine_ (pp. 85-93). Springer, Cham. doi: [10.1007/978-3-030-00320-3_11](10.1007/978-3-030-00320-3_11)
