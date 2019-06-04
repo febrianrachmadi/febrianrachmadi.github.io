@@ -10,8 +10,10 @@ redirect_from:
 
 I am a fourth-year PhD student in Informatics at [School of Informatics, University of Edinburgh](https://www.ed.ac.uk/informatics), advised by [Dr. Taku Komura](http://homepages.inf.ed.ac.uk/tkomura/) and [Dr. Maria Valdes Hernandez](https://www.research.ed.ac.uk/portal/en/persons/maria-valdes-hernandez(f22f22d9-52bb-4883-bf94-52aa23a691e1).html). Within the university, I am affiliated with the [Computer Graphics and Visualisation (CGVU)](http://www.ipab.inf.ed.ac.uk/cgvu/index.html) research group in the [Institute of Perception, Action and Behaviour (IPAB)](http://web.inf.ed.ac.uk/ipab) (School of Informatics) and [Centre for Clinical Brain Sciences (CCBS)](https://www.ed.ac.uk/clinical-brain-sciences).
 
-My main area of interest is computer vision and machine learning in medical imaging. My current (PhD) project is developing a predictive model to automatically predict and delineate the evolution (i.e., progression and regression) of White Matter Hyperintensities (WMH) of Alzherimer's Disease in T2-FLAIR of brain MRI. Previously, I worked closely with [Prof. Wisnu Jatmiko](http://staff.ui.ac.id/wisnuj) at [Faculty of Computer Science](http://www.cs.ui.ac.id/?lang=en) in the University of Indonesia. Some of my previous works are automatic vehicle counting system for intelligent traffic system, automatic peer assessment rating (PAR) index calculation on dental image.
+My main area of interest is computer vision and machine learning in medical imaging. My current (PhD) project is **"developing a predictive model to automatically predict and delineate White Matter Hyperintensities (WMH) evolution (i.e., progression and regression) of Alzherimer's Disease in T2-FLAIR brain MRI"**.
 
-For more info
+Previously, I worked closely with [Prof. Wisnu Jatmiko](http://staff.ui.ac.id/wisnuj) at [Faculty of Computer Science](http://www.cs.ui.ac.id/?lang=en) in Universitas Indonesia. Some of my previous works are automatic vehicle counting system for intelligent traffic system, automatic peer assessment rating (PAR) index calculation on dental image. Please see list of my [reserach/project](https://febrianrachmadi.github.io/projects/) and [publications](https://febrianrachmadi.github.io/publications/) in the corresponding pages.
+
+News
 ------
-Under construction.
+04/06/2019: Most contents have been updated.
