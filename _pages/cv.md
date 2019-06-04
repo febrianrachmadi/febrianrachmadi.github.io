@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -17,6 +17,11 @@ Education
 
 Work experience
 ======
+* Summer (May) 2017, 2018, 2019: Marker
+  * School of Informatics, University of Edinburgh
+  * Role: Marking assignment and exam of Advanced Vision (AV) course.
+  * Supervisor: Prof. Bob Fisher
+
 * December 2017 - December 2019: Research Intern
   * [Lpixel Inc.](https://lpixel.net/)
   * Project: Developing automatic labelling of brain vessels from MRA using deep neural networks.
@@ -34,4 +39,8 @@ Work experience
 
 Publications
 ======
-See [publication page](https://febrianrachmadi.github.io/publications/) or [my Google Scholar's page](https://scholar.google.co.uk/citations?hl=en&user=ZFo5fiwAAAAJ).
+See [Publications page](https://febrianrachmadi.github.io/publications/) or [my Google Scholar's page](https://scholar.google.co.uk/citations?hl=en&user=ZFo5fiwAAAAJ).
+
+Research/Project
+======
+See [Research/Project page](https://febrianrachmadi.github.io/projects/).
