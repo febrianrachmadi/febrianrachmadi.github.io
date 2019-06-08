@@ -17,4 +17,5 @@ Published publications:
  - Rachmadi, M. F., Valdés-Hernández, M. D. C., & Komura, T. (2017, October). **Voxel-based irregularity age map (IAM) for brain's white matter hyperintensities in MRI.** In _2017 International Conference on Advanced Computer Science and Information Systems (ICACSIS)_ (pp. 321-326). IEEE.
 
 Pre-print:
+ - Jeong Y., Rachmadi M.F., Valdés Hernández M.C., and Komura T. (2019). **Dilated Saliency U-Net for White Matter Hyperintensities Segmentation using Irregularity Age Map.** Accpeted in Front. Aging Neuroscience. pre-print doi: [10.1101/550517](https://doi.org/10.1101/550517)
  - Rachmadi, M.F., Hernández, M.V., Li, H., Guerrero, R., Meijboom, R., Wiseman, S., Waldman, A., Zhang, J., Rueckert, D., Wardlaw, J. and Komura, T., (2019). **Limited One-time Sampling Irregularity Map (LOTS-IM) for Automatic Unsupervised Assessment of White Matter Hyperintensities and Multiple Sclerosis Lesions in Structural Brain Magnetic Resonance Images.** BioRxiv 334292. doi: [10.1101/334292](https://doi.org/10.1101/334292). Submitted to Computerized Medical Imaging and Graphics (CMIG) journal.
