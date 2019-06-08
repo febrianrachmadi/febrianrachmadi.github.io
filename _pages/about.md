@@ -16,5 +16,6 @@ Previously, I worked closely with [Prof. Wisnu Jatmiko](http://staff.ui.ac.id/wi
 
 News
 ------
+ - 06/06/2019: A manuscript has been accepted in Front. Aging Neuroscience! You can read the pre-print version [here](https://doi.org/10.1101/550517).
  - 05/06/2019: A paper has been accepted at MICCAI 2019! You can read the pre-print [here](https://doi.org/10.1101/662692).
  - 04/06/2019: Most contents have been updated.
