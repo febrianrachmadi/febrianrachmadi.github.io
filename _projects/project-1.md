@@ -1,6 +1,6 @@
 ---
 title: "Disease Evolution Predictor Deep Neural Networks"
-excerpt: "This is an ongoing (PhD) project to develop deep neural network models for predicting and delineating white matter hyperintensities (WMH) evolution in T2-FLAIR brain MRI. <br/>"
+excerpt: "This is an ongoing (PhD) project to develop deep neural network models for predicting and delineating white matter hyperintensities (WMH) evolution in T2-FLAIR brain MRI. <br/><img src='/images/dep-gans-2critics-schematic.png'>"
 collection: projects
 ---
 
