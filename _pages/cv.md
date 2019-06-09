@@ -21,8 +21,13 @@ Work experience
   * School of Informatics, University of Edinburgh
   * Role: Marking assignment and exam of Advanced Vision (AV) course.
   * Supervisor: Prof. Bob Fisher
+  
+* Summer (June-August) 2018: MSc Project Supervisor
+  * School of Informatics, University of Edinburgh
+  * Role: Supervising MSc students on doing their summer projects and theses.
+  * Main supervisors: Dr. Taku Komura and Dr. Maria Valdés Hernández
 
-* December 2017 - December 2019: Research Intern
+* December 2017 - January 2019: Research Intern
   * [Lpixel Inc.](https://lpixel.net/)
   * Project: Developing automatic labelling of brain vessels from MRA using deep neural networks.
 <!---  * Supervisor: Professor Git --->
