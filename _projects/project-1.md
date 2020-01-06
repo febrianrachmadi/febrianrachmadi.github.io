@@ -15,3 +15,5 @@ Published publications:
  
 Pre-print: 
  - Rachmadi, M. F., Valdés-Hernández, M. D. C., Makin, S., Wardlaw, J. M., & Komura, T. (2019). **Automatic Spatial Estimation of White Matter Hyperintensities Evolution in Brain MRI using Disease Evolution Predictor Deep Neural Networks.** bioRxiv, 738641. pre-print doi: [doi.org/10.1101/738641](https://doi.org/10.1101/738641)
+
+I have also shot-listed relevant papers in MICCAI 2019 dealing with similar problem on the following [blog post](https://febrianrachmadi.github.io/posts/2019/010/blog-post-1/).
