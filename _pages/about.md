@@ -16,6 +16,7 @@ Previously, I worked closely with [Prof. Wisnu Jatmiko](http://staff.ui.ac.id/wi
 
 News
 ------
- - 06/06/2019: A manuscript has been accepted in Front. Aging Neuroscience! You can read the pre-print version [here](https://doi.org/10.1101/550517).
- - 05/06/2019: A paper has been accepted at MICCAI 2019! You can read the pre-print [here](https://doi.org/10.1101/662692).
+ - 13/11/2019: A journal paper titled **Limited One-time Sampling Irregularity Map (LOTS-IM) for Automatic Unsupervised Assessment of White Matter Hyperintensities and Multiple Sclerosis Lesions in Structural Brain Magnetic Resonance Images** has been published in **Computerized Medical Imaging and Graphics**! [full-paper](https://doi.org/10.1016/j.compmedimag.2019.101685) [pre-print](https://doi.org/10.1101/334292)
+ - 06/06/2019: A conference paper titled **Dilated Saliency U-Net for White Matter Hyperintensities Segmentation using Irregularity Age Map** has been published in **Frontiers in Aging Neuroscience**! [full-paper](https://doi.org/10.3389/fnagi.2019.00150)
+ - 05/06/2019: A journal paper titled **Predicting the Evolution of White Matter Hyperintensities in Brain MRI using Generative Adversarial Networks and Irregularity Map** has been accepted at **MICCAI 2019**! [full-paper](https://doi.org/10.1007/978-3-030-32248-9_17) [pre-print](https://doi.org/10.1101/662692)
  - 04/06/2019: Most contents have been updated.
