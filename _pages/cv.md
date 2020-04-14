@@ -11,12 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in Computer Science. Faculty of Computer Science, Universitas Indonesia, 2013.
-* M.Sc. in Informatics. School of Informatics, University of Edinburgh, 2015.
-* Ph.D. in Informatics. School of Informatics, University of Edinburgh, 2020 (expected).
+* B.Sc. in Computer Science. Faculty of Computer Science, Universitas Indonesia, 2009-2013.
+* M.Sc. in Informatics. School of Informatics, University of Edinburgh, 2014-2015.
+* Ph.D. in Informatics. School of Informatics, University of Edinburgh, 2016-2020.
 
 Work experience
 ======
+* March 2020 - now: Postdoctoral Research Scientist
+  * Brain Image Analysis Unit, RIKEN Center of Brain Science (RIKEN CBS), Japan.
+  * Role: Developing machine/deep learning techniques for processing and analyzing marmoset brain image data.
+  * Supervisor: Dr. Henrik Skibbe
+
 * Summer (May) 2017, 2018, 2019: Marker
   * School of Informatics, University of Edinburgh
   * Role: Marking assignment and exam of Advanced Vision (AV) course.
@@ -25,7 +30,7 @@ Work experience
 * Summer (June-August) 2018: MSc Project Supervisor
   * School of Informatics, University of Edinburgh
   * Role: Supervising MSc students on doing their summer projects and theses.
-  * Main supervisors: Dr. Taku Komura and Dr. Maria Valdés Hernández
+  * Main supervisors: Prof. Taku Komura and Dr. Maria Valdés Hernández
 
 * December 2017 - January 2019: Research Intern
   * [Lpixel Inc.](https://lpixel.net/)
