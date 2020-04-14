@@ -14,6 +14,8 @@ I did my PhD and MSc studies at the [School of Informatics, University of Edinbu
 
 Previously, I worked closely with [Prof. Wisnu Jatmiko](http://staff.ui.ac.id/wisnuj) at the [Faculty of Computer Science](http://www.cs.ui.ac.id/?lang=en), Universitas Indonesia. Some of my previous works are automatic vehicle counting system for intelligent traffic system, automatic peer assessment rating (PAR) index calculation on dental image. Please see list of my [reserach/project](https://febrianrachmadi.github.io/projects/) and [publications](https://febrianrachmadi.github.io/publications/) in the corresponding pages.
 
+Working contact point: febrian (dot) rachmadi (at) riken (dot) jp \[without spaces\]
+
 News (Updated on 14/04/2020)
 ------
  - 01/03/2020: Started my postdoctoral position at the [Brain Image Analysis Unit](http://bia.riken.jp/), [RIKEN Center for Brain Science, Japan](https://cbs.riken.jp/en/faculty/bia/).
